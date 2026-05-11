@@ -23,4 +23,4 @@ This project implements a Dynamic Power Management (DPM) strategy for robotic vi
 This implementation demonstrates efficiency gains in unstructured environments (Experiment 2) by automatically selecting relevant "pixels of interest" and managing power consumption dynamically.
 
 ---
-*Based on: "Automatic Regions-of-Interest Selection based on Pearson's Correlation Coefficient" by Arthur Miranda Neto.*
+*Based on: "Automatic Regions-of-Interest Selection based on Pearson's Correlation Coefficient" by Professor Arthur Miranda Neto.*
